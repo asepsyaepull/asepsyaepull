@@ -2,6 +2,7 @@
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
