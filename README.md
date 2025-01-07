@@ -3,7 +3,7 @@ Front-End Developer with strong foundation in UI/UX design and 5+ years of exper
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Toolkit</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,figma,bootstrap,tailwind,vscode,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nextjs,nodejs,figma,bootstrap,tailwind,vscode,git,postman)](https://skillicons.dev)
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> GitHub Stats | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Most Used Languages |
 |---|---|
